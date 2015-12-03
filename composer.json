@@ -6,9 +6,8 @@
 	"homepage": "https://github.com/Shrayyef/fileUpload",
 	"authors": [
 		{
-			"name": "Alex Garrett",
-			"email": "alex@codecourse.com",
-			"homepage": "http://itsmealex.com"
+			"name": "Mohammed Shrayyef",
+			"email": "m_shrayyef90@hotmail.com"
 		}
 	],
 	"autoload": {
