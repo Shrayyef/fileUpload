@@ -1,0 +1,19 @@
+{
+	"name": "shrayyef/fileUpload",
+	"type": "library",
+	"description": "fileUpload is a php file upload library.",
+	"keywords": ["php file upload"],
+	"homepage": "https://github.com/Shrayyef/fileUpload",
+	"authors": [
+		{
+			"name": "Alex Garrett",
+			"email": "alex@codecourse.com",
+			"homepage": "http://itsmealex.com"
+		}
+	],
+	"autoload": {
+		"psr-4": {
+			"Shrayyef\\": "src/"
+		}
+	}
+}
