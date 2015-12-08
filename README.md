@@ -1,5 +1,8 @@
-# fileUpload
-php file upload library 
+# FileUpload
+php file upload library.
+
+## Install
+run composer install in the downloaded folder.
 
 ## Basic usage
 
